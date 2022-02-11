@@ -20,7 +20,7 @@ export const transactionSchema = {
         },
         {
             name: 'fromAddress',
-            title: 'From (Wallet Address',
+            title: 'From (Wallet Address)',
             type: 'string'
         },
         {
